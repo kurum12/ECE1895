@@ -1,3 +1,4 @@
+// Modified by Weike Ye
 const byte leds[] = {8, 9, 10};
 const byte button = 2;
 
