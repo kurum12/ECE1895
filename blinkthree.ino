@@ -1,3 +1,4 @@
+//edit by Weishuhan Mei
 void setup() {
   pinMode(8, OUTPUT);       // LED1
   pinMode(9, OUTPUT);       // LED2
