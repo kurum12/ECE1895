@@ -1,3 +1,4 @@
+//edit by Weishuhan Mei
 void setup() {
   pinMode(8, OUTPUT);       // LED
   pinMode(2, INPUT_PULLUP); // swtich 
