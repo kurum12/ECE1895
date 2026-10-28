@@ -7,6 +7,7 @@ void setup() {
   for (byte i = 0; i < 3; i++) {
     pinMode(leds[i], OUTPUT);
     digitalWrite(leds[i], LOW);
+    //modified by by Lakshman Sivaram
   }
 }
 
